@@ -9,4 +9,7 @@ Textbooks:
 Lecture videos can be found here:
 1. L01_b - Hardware Setup -> https://www.youtube.com/watch?v=kaNMHkoDdUM&list=PLPO0UeWHqx54L-sSN8CiZIkpHa1GE5148&index=10&pp=gAQBiAQB 
 2. L01_c - Software Setup -> https://www.youtube.com/watch?v=8oDECkpf2-s&list=PLPO0UeWHqx54L-sSN8CiZIkpHa1GE5148&index=9&pp=gAQBiAQB 
-3. L01_d - Setup Testing -> https://www.youtube.com/watch?v=Izk--jatDRI&list=PLPO0UeWHqx54L-sSN8CiZIkpHa1GE5148&index=8&pp=gAQBiAQB 
+3. L01_d - Setup Testing -> https://www.youtube.com/watch?v=Izk--jatDRI&list=PLPO0UeWHqx54L-sSN8CiZIkpHa1GE5148&index=8&pp=gAQBiAQB
+4. L02_b - TinyML Challenges -> https://www.youtube.com/watch?v=obhLALd2Z78&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=1&t=1s&pp=gAQBiAQB
+5. L02_c - The Machine Learning Paradigm -> https://www.youtube.com/watch?v=bKHNF0ZeBoQ&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=2&pp=gAQBiAQB0gcJCYQJAYcqIYzv (Part 1)
+6. L02_c - The Machine Learning Paradigm -> https://www.youtube.com/watch?v=sp6B2uE-Hig&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=3&t=1883s&pp=gAQBiAQB (Part 2)
