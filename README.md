@@ -18,3 +18,6 @@ Lecture videos can be found here:
 9. L02_e - Classification -> https://www.youtube.com/watch?v=UiVGBMNmci4&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=6&t=958s&pp=gAQBiAQB (Part 2)
 10. L02_f - DNN and ML Metrics -> https://www.youtube.com/watch?v=8bMwVz5Awnw&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=7&pp=gAQBiAQB
 11. L02_g - Convolutions -> https://www.youtube.com/watch?v=cMXcOo9kAkw&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=8&t=655s&pp=gAQBiAQB
+12. L04 - Creating a Voice Controlled Robotic Subsystem -> https://www.youtube.com/watch?v=yJk_Zi0xxFo&list=PLPO0UeWHqx56WZEJK1UEt7kfKGmpQkd3Q&index=3&t=17s&pp=gAQBiAQB (Part 1)
+13. L04 - Creating a Voice Controlled Robotic Subsystem -> https://www.youtube.com/watch?v=F1mMMQwNhtY&list=PLPO0UeWHqx56WZEJK1UEt7kfKGmpQkd3Q&index=2&pp=gAQBiAQB (Part 2)
+14. L04 - Creating a Voice Controlled Robotic Subsystem -> https://www.youtube.com/watch?v=mfe0lTibGvw&list=PLPO0UeWHqx56WZEJK1UEt7kfKGmpQkd3Q&index=1&pp=gAQBiAQB0gcJCYQJAYcqIYzv (Part 3)
