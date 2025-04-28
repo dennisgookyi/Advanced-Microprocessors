@@ -1,4 +1,4 @@
-# Advanced-Microprocessors
+# Advanced-Microprocessors-Class
 This repo contains course materials including lecture slides, lecture videos, assignments, labs, and end-of-semester projects.
 
 Textbooks:
