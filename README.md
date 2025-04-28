@@ -13,3 +13,8 @@ Lecture videos can be found here:
 4. L02_b - TinyML Challenges -> https://www.youtube.com/watch?v=obhLALd2Z78&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=1&t=1s&pp=gAQBiAQB
 5. L02_c - The Machine Learning Paradigm -> https://www.youtube.com/watch?v=bKHNF0ZeBoQ&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=2&pp=gAQBiAQB0gcJCYQJAYcqIYzv (Part 1)
 6. L02_c - The Machine Learning Paradigm -> https://www.youtube.com/watch?v=sp6B2uE-Hig&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=3&t=1883s&pp=gAQBiAQB (Part 2)
+7. L02_d - First Neural Network -> https://www.youtube.com/watch?v=c6oct0CKhQQ&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=4&t=8s&pp=gAQBiAQB
+8. L02_e - Classification -> https://www.youtube.com/watch?v=DoRPeFnKom8&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=5&pp=gAQBiAQB (Part 1)
+9. L02_e - Classification -> https://www.youtube.com/watch?v=UiVGBMNmci4&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=6&t=958s&pp=gAQBiAQB (Part 2)
+10. L02_f - DNN and ML Metrics -> https://www.youtube.com/watch?v=8bMwVz5Awnw&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=7&pp=gAQBiAQB
+11. L02_g - Convolutions -> https://www.youtube.com/watch?v=cMXcOo9kAkw&list=PLPO0UeWHqx56doxnd7YM-1XjLK4F04Gj4&index=8&t=655s&pp=gAQBiAQB
